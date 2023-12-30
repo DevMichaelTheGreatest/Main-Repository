@@ -1,4 +1,4 @@
-- Hiii I'm Dev. Micvhael The Greatest
+- Hiii I'm Dev. Michael The Greatest
 - I really like to explore!
 
 *- Im learning Python....*
